@@ -52,7 +52,6 @@ Arduinoで開きます。
 
 ![スクリーンショット 2013-12-13 17.23.22.png](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED/master/gitfab/resources/スクリーンショット-2013-12-13-17.23.22.png)
 
-
 「→」マークの「マイコンボードに書き込む」ボタンをクリックすれば、ソフトウェアの書き込みは完了です。
 
 ![スクリーンショット 2013-12-13 17.19.45.png](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED/master/gitfab/resources/スクリーンショット-2013-12-13-17.19.45.png)
