@@ -9,6 +9,8 @@ Arduinoで照度センサ（CDS Cell）とフルカラーLEDを連携させる�
 
 フルカラーLEDはPWM点灯しています。
 
+
+[led+sensor_480.mov](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED/master/gitfab/resources/led+sensor_480.mov)
 ---
 #準備
 以下のものを準備してください。
