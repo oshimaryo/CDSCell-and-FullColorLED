@@ -61,8 +61,7 @@ Arduinoで開きます。
 #完成図
 
 
-
-![IMG_6206.JPG](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED-Sample/master/gitfab/resources/IMG_6206.JPG)
+![IMG_6206.jpg](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED/master/gitfab/resources/IMG_6206.jpg)
 ---
 # 参考
 
