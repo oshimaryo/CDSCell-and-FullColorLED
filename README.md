@@ -34,11 +34,12 @@ Arduinoで照度センサ（CDS Cell）とフルカラーLEDを連携させる�
 
 以下の図のように配線します。
 
-![スクリーンショット 2013-12-13 17.48.59.png](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED-Sample/master/gitfab/resources/スクリーンショット-2013-12-13-17.48.59.png)
+![スクリーンショット 2013-12-13 17.48.59.png](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED/master/gitfab/resources/スクリーンショット-2013-12-13-17.48.59.png)
 
 以下は回路図のFritzingファイルです。
 
 [fullColorLED-CDSCell.fzz](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED-Sample/master/gitfab/resources/fullColorLED-CDSCell.fzz)
+
 ---
 #ソフトウェア
 ソースコードは[githubレポジトリ](https://github.com/oshimaryo/FullColorLED_and_illuminanceSensor)にアップされています。
