@@ -44,21 +44,18 @@ Arduinoで照度センサ（CDS Cell）とフルカラーLEDを連携させる�
 ソースコードは[githubレポジトリ](https://github.com/oshimaryo/FullColorLED_and_illuminanceSensor)にアップされています。
 
 画面右下側にある「Download ZIP」ボタンをクリックして、デスクトップにダウンロードします。
+![スクリーンショット 2013-12-13 17.20.54.png](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED/master/gitfab/resources/スクリーンショット-2013-12-13-17.20.54.png)
 
-![スクリーンショット 2013-12-13 17.20.54.png](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED-Sample/master/gitfab/resources/スクリーンショット-2013-12-13-17.20.54.png)
 
 ダウンロードしたzipファイルを解凍し、"LED_illuminanceSensor.ino"ファイルを
 Arduinoで開きます。
 
-
-![スクリーンショット 2013-12-13 17.23.22.png](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED-Sample/master/gitfab/resources/スクリーンショット-2013-12-13-17.23.22.png)
+![スクリーンショット 2013-12-13 17.23.22.png](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED/master/gitfab/resources/スクリーンショット-2013-12-13-17.23.22.png)
 
 
 「→」マークの「マイコンボードに書き込む」ボタンをクリックすれば、ソフトウェアの書き込みは完了です。
 
-
-![スクリーンショット 2013-12-13 17.19.45.png](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED-Sample/master/gitfab/resources/スクリーンショット-2013-12-13-17.19.45.png)
-
+![スクリーンショット 2013-12-13 17.19.45.png](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED/master/gitfab/resources/スクリーンショット-2013-12-13-17.19.45.png)
 ---
 #完成図
 
