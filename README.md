@@ -41,6 +41,8 @@ Arduinoで照度センサ（CDS Cell）とフルカラーLEDを連携させる�
 [fullColorLED-CDSCell.fzz](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED-Sample/master/gitfab/resources/fullColorLED-CDSCell.fzz)
 
 配線できたら、ArduinoをパソコンにUSBケーブルでつなぎます。
+
+ArduinoとMacの接続については[こちら](http://kin2ku.org/protein/wiki/tadanomemo/memos/2011/07/08/setup_arduino_on_mac#Arduino_%E3%81%A8_Mac%E3%81%AE%E6%8E%A5%E7%B6%9A)が参考になると思います。
 ---
 #ソフトウェア
 ソースコードは[githubレポジトリ](https://github.com/oshimaryo/FullColorLED_and_illuminanceSensor)にアップされています。
